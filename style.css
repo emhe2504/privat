@@ -12,6 +12,7 @@ body {
     left: 5%;
     top: 1%;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-small;
 }
 
 h1 {
@@ -21,8 +22,8 @@ h1 {
     padding-bottom: 5%;
     margin-left: 3%;
     margin-right: 3%;
-    margin-top: 13%;
-    font-size: 200%;
+    margin-top: 20%;
+    font-size: 250%;
     border: 1px solid rgb(244, 153, 183);
     box-shadow: 5px 5px 5px 5px white;
 }
@@ -45,8 +46,8 @@ h1 {
     border: 6px solid rgb(244, 153, 183);
     padding: 2%;
     margin-top: 2%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
     box-shadow: 3px 3px 3px 3px white;
     font-size: 80%;
     text-align: center;
@@ -63,7 +64,7 @@ footer {
     padding: 2%;
     text-align: center;
     background-color: rgb(244, 153, 183);
-    font-size: small;
+    font-size: x-small;
 }
 
 #hej {
@@ -71,7 +72,7 @@ footer {
 }
 
 #drink {
-    margin-top: 2%;
+    margin-top: 6%;
     justify-self: center;
 }
 
@@ -82,7 +83,6 @@ footer {
 }
 
 #startsida {
-    width: 10%;
     justify-self: center;
     text-align: center;
     margin-top: 4%;
@@ -92,6 +92,4 @@ footer {
     color: rgb(237, 121, 140);
     font-weight: bold;
     padding: 1%;
-    border: 2px solid rgb(244, 207, 213);
-    box-shadow: 3px 3px 3px 3px white;
 }
