@@ -43,9 +43,9 @@ h1 {
 #f, 
 #v,
 #e {
-    border: 6px solid rgb(244, 153, 183);
+    border: 3px solid rgb(244, 153, 183);
     padding: 2%;
-    margin-top: 2%;
+    margin-top: 4%;
     margin-left: 5%;
     margin-right: 5%;
     box-shadow: 3px 3px 3px 3px white;
@@ -85,11 +85,12 @@ footer {
 #startsida {
     justify-self: center;
     text-align: center;
-    margin-top: 4%;
+    margin-top: 8%;
     text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: large;
     color: rgb(237, 121, 140);
     font-weight: bold;
     padding: 1%;
+    text-shadow: 2px 2px 2px white;
 }
